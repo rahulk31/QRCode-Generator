@@ -13,5 +13,5 @@ You can also clone the repo and run it.
  * eel
  * pypng
  
-`<addr>`pip install eel pypng
+Use the command ```pip install eel pypng```
 
