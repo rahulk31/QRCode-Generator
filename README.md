@@ -15,3 +15,7 @@ You can also clone the repo and run it.
  
 Use the command ```pip install eel pypng```
 
+
+### Eel Source
+```https://github.com/samuelhwilliams/Eel```
+
