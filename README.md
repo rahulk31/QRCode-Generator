@@ -10,6 +10,8 @@ You can also clone the repo and run it.
 
 
 * Python
+Packages:
+ * pyqrcode
  * eel
  * pypng
  
