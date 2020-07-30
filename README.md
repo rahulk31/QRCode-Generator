@@ -9,13 +9,12 @@ You can also clone the repo and run it.
 ## Dependencies
 
 
-* Python
-Packages:
+Python Packages:
  * pyqrcode
  * eel
  * pypng
  
-Use the command ```pip install eel pypng```
+Use the command ```pip install eel pyqrcode pypng```
 
 
 ### Eel Source
